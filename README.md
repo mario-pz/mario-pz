@@ -1,4 +1,4 @@
-# Hello friend. 🤖
+# Hello Friend. 🤖
 
 I am passionate engineer with mission to investigate the best sets of principles and practices given a product. Continues Learning and Security is my motto. 
 
